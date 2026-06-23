@@ -1,4 +1,4 @@
-{% set version = "0.1.2" %}
+{% set version = "0.1.3" %}
 
 package:
   name: annsel
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/a/annsel/annsel-{{ version }}.tar.gz
-  sha256: a9ab14495f3e28c216a5cb74f918542710ac82e22bb04db57af233bbbf536da8
+  sha256: 6ef0341057f57a93294bec98ab8f4aef83be67ea280389b544ad668b220fbb04
 
 build:
   noarch: python
